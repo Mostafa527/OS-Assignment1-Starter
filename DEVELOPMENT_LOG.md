@@ -13,20 +13,21 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Example Entry Format:
 
-### Entry 1 - [April 1, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
+### Entry 1 - [March 25, 2026, 3:00 PM]
+**What I did**: Set up GitHub repository and project
 
 **Details**: 
-- Created GitHub account with university email
-- Forked the starter repository
-- Changed student ID on line 92 to my actual ID (441234567)
-- Compiled and ran the program successfully
+-Created GitHub account using university email
+-Forked the starter repository
+-Renamed repository correctly
+-Added my student ID in SchedulerSimulation.java
+-Ran the program successfully
 
-**Challenges**: Had to install JDK first because javac wasn't recognized
+**Challenges**: Initial confusion with GitHub fork vs clone
 
-**Solution**: Downloaded JDK 17 from Oracle website and set PATH variable
+**Solution**: Watched a short tutorial and understood the difference
 
-**Time spent**: 30 minutes
+**Time spent**: 3 hours
 
 ---
 
@@ -112,7 +113,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**: [3 days]
 
 **Most challenging part**: 
 
